@@ -1,3 +1,3 @@
-module github.com/Huzar/utils/v2
+module github.com/Huzar/utils/v3
 
 go 1.17
